@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "OOP.Student",
+            "projectName": "Data Structures_767507fd"
+        },
+        {
+            "type": "java",
+            "name": "MultiFaceDice",
+            "request": "launch",
+            "mainClass": "MultiFaceDice",
+            "projectName": "Data Structures_767507fd"
+        },
+        {
+            "type": "java",
+            "name": "DiceThrow",
+            "request": "launch",
+            "mainClass": "DiceThrow",
+            "projectName": "Data Structures_767507fd"
+        },
+        {
+            "type": "java",
+            "name": "KeypadNumber",
+            "request": "launch",
+            "mainClass": "KeypadNumber",
+            "projectName": "Data Structures_767507fd"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "Data Structures_767507fd"
+        },
+        {
+            "type": "java",
             "name": "Permutation",
             "request": "launch",
             "mainClass": "Strings.Permutation",

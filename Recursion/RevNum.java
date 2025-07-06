@@ -3,5 +3,7 @@ public class RevNum {
         
     }
 
-    static int reverse(int n)
+    static void reverse(int n){
+
+    }
 }
